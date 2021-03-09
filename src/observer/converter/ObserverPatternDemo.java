@@ -1,4 +1,4 @@
-package observer;
+package observer.converter;
 
 public class ObserverPatternDemo {
     public static void main(String[] args) {
