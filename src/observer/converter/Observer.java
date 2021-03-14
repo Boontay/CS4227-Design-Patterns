@@ -1,4 +1,4 @@
-package observer;
+package observer.converter;
 
 public abstract class Observer {
     protected Subject subject;
